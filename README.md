@@ -9,7 +9,8 @@ Servo driver: PCA9685 (Donkeycar equivalent) \
 https://detail.tmall.com/item.htm?id=597498156699&spm=a1z09.2.0.0.74622e8dYOHY9k&_u=6lirl382073
 
 The PCA9685 driver code comes from http://tordwessman.blogspot.com/2013/12/adafruit-pca9685-c-servo-controller.html 
-with some modification.
+with some modification. \
+https://www.raspberrypi.org/forums/viewtopic.php?t=29458
 
 ## Setup
 ```
