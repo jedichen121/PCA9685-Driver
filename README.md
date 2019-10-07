@@ -15,8 +15,10 @@ https://www.raspberrypi.org/forums/viewtopic.php?t=29458
 ## Setup
 ```
 souce setup.sh
+mkdir build && cd $_
+cmake ..
 make
-./test 
+./test_servo 
 ```
 
-Make sure the servo is powered. 
+Make sure the servo is sufficiently powered. 
